@@ -59,7 +59,7 @@ A responsive single-page React app for managing student profiles and their enrol
 
 ```bash
 # Clone the repo
-https://github.com/your-username/student-dashboard
+[https://github.com/your-username/student-dashboard](https://github.com/Pavan-kumar-ks/student-management-dashboard.git)
 ```
 # Navigate into the project
 cd student-dashboard
@@ -69,8 +69,7 @@ npm install
 
 # Start the app
 npm start
-```
-```
+
 > 💡 Ensure Node.js and npm are installed on your machine.
 
 ---
@@ -79,11 +78,9 @@ npm start
 
 Courses are fetched from:
 
-```
-```
+
 https://mockapi.io/projects/your-mockapi-id/courses
-```
-```
+
 
 Or fallback to mock data if the request fails.
 
@@ -108,6 +105,6 @@ This project was created with mentoring in mind. Key parts of the code include:
 
 ## 📧 Contact
 
-Built by \[Pavan Kumar K S] for the Confedo AI technical assignment.
+Built by [Pavan Kumar K S] for the Confedo AI technical assignment.
 
 This project serves as a well-rounded example for mentoring junior developers. It emphasizes **best practices** in modern React development, while reinforcing **core JavaScript fundamentals** in a real-world context.
